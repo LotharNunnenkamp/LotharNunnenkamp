@@ -5,8 +5,8 @@ Sou Desenvolvedor Back-End JS Júnior!
 Estudante de Desenvolvimento Back-end em JavaScript na @cubosacademy.
 
 Iniciei minha transição de carreira para a área de tecnologia em 2023, estudando desenvolvimento Back-End em Python. 
+Atualmente, foco meu aprendizado em JS e Node.js!
 
-Sou curioso por análise de dados e, por isso, estou fazendo o Bootcamp Santander 2023 em Ciência de Dados com Python. 
 
 ## Hard Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
