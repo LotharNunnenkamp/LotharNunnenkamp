@@ -2,7 +2,7 @@
 
 Sou Desenvolvedor Back-End JS Júnior!
 
-Estudante de Desenvolvimento Back-end em JavaScript na @cubosacademy.
+Estudante de Desenvolvimento Back-end em JavaScript na [<img src="https://assets-global.website-files.com/6092ed75cac3156e208ac5e9/60930427ef6bdd04bf838d53_logo-horizontal-academy2.svg" height="18" />](https://cubos.academy/) .
 
 Iniciei minha transição de carreira para a área de tecnologia em 2023, estudando desenvolvimento Back-End em Python. 
 Atualmente, foco meu aprendizado em JS e Node.js!
